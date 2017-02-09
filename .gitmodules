@@ -1,0 +1,6 @@
+[submodule "lib"]
+	path = lib
+	url = git@github.com:edition-stuffs/lib.git
+[submodule "fonts"]
+	path = fonts
+	url = git@github.com:edition-stuffs/fonts.git

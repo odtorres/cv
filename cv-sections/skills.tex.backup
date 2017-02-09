@@ -1,0 +1,55 @@
+%----------------------------------------------------------------------------------------
+%	SECTION TITLE
+%----------------------------------------------------------------------------------------
+
+\cvsection{Skills}
+
+%----------------------------------------------------------------------------------------
+%	SECTION CONTENT
+%----------------------------------------------------------------------------------------
+
+\begin{cvskills}
+
+%------------------------------------------------
+
+\cvskill
+{Data Engineer} % Category
+{Develop, Construct, Test, Maintain} % Skills
+
+%------------------------------------------------
+
+\cvskill
+{Programming Languages} % Category
+{Java, JavaScript} % Skills
+
+%------------------------------------------------
+
+%\cvskill{Frameworks}{AngularJS, React.js, Sails.js, NodeJS, Spring Boot} % Skills
+
+%------------------------------------------------
+
+\cvskill
+{Data Managment} % Category
+{ElasticSearch, SQL, MySQL, Postgres, Alfresco} % Skills
+
+
+\cvskill
+{Operations} % Category
+{Linux, Alfresco, Tomcat, Nginx, Performance Analysis} % Skills
+
+%------------------------------------------------
+
+\cvskill
+{Languages} % Category
+{Spanish, English} % Skills
+
+%------------------------------------------------
+
+%------------------------------------------------
+% \cvskill
+% {} % Category
+% {} % Skills
+
+
+\end{cvskills}
+
